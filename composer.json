@@ -1,0 +1,19 @@
+{
+    "name": "vinnyfs89/study-atoum",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "vinnyfs89",
+            "email": "viniciusfesil@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "atoum/atoum": "^3.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Vendor\\": "src/Vendor"
+        }
+    }
+}
